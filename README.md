@@ -8,7 +8,9 @@
 <img align="left" height="150" src="https://i.ibb.co/H7cCpJs/pngwing-com.png"  />
 <img align="right" height="150" src="https://i.ibb.co/H7cCpJs/pngwing-com.png"  />
 
-<h2 align="center">Hiii...<br><br>My name is Cliff Heraldo from Indonesian<br><br>I'm Just Beginner DEV and I still learn</h2>
+<h2 align="center">Hiii...<br><br><br>My name is Cliff Heraldo from Indonesian
+<br><br>
+I'm a Beginner DEV and I'm still learning</h2>
 
 ###
 
