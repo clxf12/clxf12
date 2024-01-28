@@ -5,13 +5,15 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/clxf12/clxf12/output/github-contribution-grid-snake-dark.svg">
 </picture>
 </div>
+<div>
 <img align="left" height="150" src="https://i.ibb.co/H7cCpJs/pngwing-com.png"  />
 <img align="right" height="150" src="https://i.ibb.co/H7cCpJs/pngwing-com.png"  />
-
-<h2 align="center">Hiii...<br><br><br>My name is Cliff Heraldo from Indonesian
+</div>
+<div>
+<h2 align="center">Hiii...<br><br><a>My name is Cliff Heraldo from Indonesian</a>
 <br><br>
-I'm a Beginner DEV and I'm still learning</h2>
-
+<a>I'm a Beginner DEV and I'm still learning</a>
+</div>
 ###
 
 <div align="center">
