@@ -1,3 +1,10 @@
+<div>
+<img align="left" height="150" src="https://i.ibb.co/H7cCpJs/pngwing-com.png"  />
+<img align="right" height="150" src="https://i.ibb.co/H7cCpJs/pngwing-com.png"  />
+</div>
+
+
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/clxf12/clxf12/output/github-contribution-grid-snake-dark.svg">
@@ -5,10 +12,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/clxf12/clxf12/output/github-contribution-grid-snake-dark.svg">
 </picture>
 </div>
-<div>
-<img align="left" height="150" src="https://i.ibb.co/H7cCpJs/pngwing-com.png"  />
-<img align="right" height="150" src="https://i.ibb.co/H7cCpJs/pngwing-com.png"  />
-</div>
+
+
+
+
 <div>
 <h2 align="center">Hiii...<br><br><a>My name is Cliff Heraldo from Indonesian</a>
 <br><br>
@@ -53,7 +60,10 @@
   <img src="https://profile-counter.glitch.me/clxf12/count.svg" />
 </p>
 
-###
+<div>
+<img align="left" height="150" src="https://i.ibb.co/H7cCpJs/pngwing-com.png"  />
+<img align="right" height="150" src="https://i.ibb.co/H7cCpJs/pngwing-com.png"  />
+</div>
 
 <br clear="both">
 
