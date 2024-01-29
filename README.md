@@ -27,7 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clxf12&layout=normal&theme=github_dark" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=clxf12&show=prs_merged,prs_merged_percentage&show_icons=true&theme=github_dark&include_all_commits=true&rank_icon=github" />
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=clxf12&repo=app-kuis22" />
   
   
   
