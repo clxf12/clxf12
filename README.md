@@ -24,11 +24,11 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clxf12&layout=normal&theme=github_dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=clxf12&show=prs_merged_percentage&show_icons=true&theme=github_dark&include_all_commits=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clxf12&layout=normal&theme=transparent" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=clxf12&show=prs_merged_percentage&show_icons=true&theme=transparent&include_all_commits=true&rank_icon=github" />
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=clxf12&repo=App-Kuis-22&theme=github_dark" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=clxf12&repo=SorongCityTour&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=clxf12&repo=App-Kuis-22&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=clxf12&repo=SorongCityTour&theme=transparent" />
   
   
   
