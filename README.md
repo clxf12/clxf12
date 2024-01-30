@@ -33,10 +33,10 @@
 
   
 <a href="https://www.instagram.com/clxf12">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=clxf12&repo=App-Kuis-22&theme=codeSTACKr&show_owner=false" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=clxf12&repo=App-Kuis-22&theme=codeSTACKr&show_owner=true" />
 </a>
 <a href="https://www.instagram.com/clxf12">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=clxf12&repo=SorongCityTour&theme=codeSTACKr&show_owner=false" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=clxf12&repo=SorongCityTour&theme=codeSTACKr&show_owner=true" />
 </a>
   
   
