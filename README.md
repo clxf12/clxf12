@@ -19,9 +19,7 @@
 
 
 <div>
-<h2 align="center">Hiii...<br><br><a>My name is Cliff Heraldo from Indonesian</a>
-<br><br>
-<a>I'm a Beginner DEV and I'm still learning</a>
+<h2 align="center"><a>Now Or Never</a>
 </div>
 
 
