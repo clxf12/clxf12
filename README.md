@@ -25,16 +25,16 @@
 
 <div align="center">
   <a href="https://www.instagram.com/clxf12">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clxf12&layout=normal&theme=codeSTACKr" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=clxf12&show=prs_merged_percentage&theme=default&include_all_commits=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clxf12&layout=normal&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=clxf12&show=prs_merged_percentage&theme=dark&include_all_commits=true&rank_icon=github" />
   </a>
 
   
 <a href="https://www.instagram.com/clxf12">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=clxf12&repo=App-Kuis-22&theme=codeSTACKr&show_owner=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=clxf12&repo=App-Kuis-22&theme=dark&show_owner=true" />
 </a>
 <a href="https://www.instagram.com/clxf12">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=clxf12&repo=SorongCityTour&theme=codeSTACKr&show_owner=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=clxf12&repo=SorongCityTour&theme=dark&show_owner=true" />
 </a>
   
   
